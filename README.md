@@ -1,5 +1,5 @@
 # flight-delay-binary-classification
-This project aims to predict whether a flight will be delayed or not with a Keras Tensorflow ANN, using US flight data in 2022.
+This project aims to predict whether a flight will be delayed or not using several machine learning frameworks applied to US flight data in February 2022.
 
 # Instructions for use:
 1. Before creating a prediction model, download the dataset first at the following link: https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGK&QO_fu146_anzr=b0-gvzr 
